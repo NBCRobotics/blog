@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "TecHounds Blog"
+author: "TecHounds 5387"
+description: "Made by Krish Shah"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,11 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {url: "https://google.com/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/NBCRobotics"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/nbcrobotics5387/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/NBCRobotics5387"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
