@@ -1,4 +1,3 @@
-
 ---
 title:  "2020 Activity Fair"
 layout: post
