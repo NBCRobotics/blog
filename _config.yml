@@ -1,6 +1,6 @@
 title: "TecHounds Blog"
 author: "TecHounds 5387"
-description: "Made by Krish Shah"
+description: "Made by Krish Shah {url: "https://google.com"}"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
