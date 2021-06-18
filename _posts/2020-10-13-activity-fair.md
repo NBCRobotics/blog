@@ -1,5 +1,5 @@
 ---
-title:  "2020 Activity Fair"
+title:  "2020 Activity Fair Video"
 layout: post
 categories: media
 ---
